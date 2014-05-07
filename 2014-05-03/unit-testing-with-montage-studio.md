@@ -1,7 +1,7 @@
 Unit Testing with Montage Studio
 ================================
 
-This is a follow up to the blog post about creating an NPM package with Montage Studio.
+This is a follow up to the blog post about [creating an NPM package with Montage Studio](http://www.montagestudio.com/blog/2014/05/06/creating-an-npm-package-with-montage-studio/).
 The scaffold MontageJS application created by Montage Studio (which is supported by [minit](https://www.npmjs.org/package/minit)) creates a directory for specs and a page that runs all specs. The default testing framework is Jasmine.
 
 You can run the tests in the preview, instead of loading the `index.html` page, load the `run-tests.html` page.
